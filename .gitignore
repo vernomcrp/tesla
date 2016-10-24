@@ -1,0 +1,5 @@
+/db
+/deps
+/_build
+/*.ez
+
